@@ -15,6 +15,7 @@ namespace Arrays
             numbers[2] = numbers[2] + 1;
             Console.WriteLine(numbers[3]);
             Console.WriteLine(numbers[2]);
+            jjjkkkkk;
         }
     }
 }
